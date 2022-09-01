@@ -3,7 +3,4 @@ added line
 my name is joey
 hi im joey
 im adding a line at the bottom
-
-
-
 making a new change
